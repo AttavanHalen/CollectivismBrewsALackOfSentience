@@ -7,12 +7,21 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "test"
+    },
+    {
+      "name": "Test2",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_2"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.communismbad.test_2": "Test 2",
       "block.communismbad.test": "Test"
     }
   },
