@@ -20,6 +20,7 @@ import java.util.ArrayList;
 public class CommunismbadModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
 	public static final Item TEST = register(CommunismbadModBlocks.TEST, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final Item TEST_2 = register(CommunismbadModBlocks.TEST_2, CreativeModeTab.TAB_BUILDING_BLOCKS);
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

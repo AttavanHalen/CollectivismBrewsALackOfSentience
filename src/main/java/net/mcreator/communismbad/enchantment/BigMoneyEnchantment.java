@@ -1,13 +1,8 @@
 
 package net.mcreator.communismbad.enchantment;
 
-import net.minecraft.world.item.enchantment.EnchantmentCategory;
-import net.minecraft.world.item.enchantment.Enchantment;
-import net.minecraft.world.item.Items;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.EquipmentSlot;
-
 public class BigMoneyEnchantment extends Enchantment {
+
 	public BigMoneyEnchantment(EquipmentSlot... slots) {
 		super(Enchantment.Rarity.COMMON, EnchantmentCategory.DIGGER, slots);
 	}
@@ -93,4 +88,5 @@ public class BigMoneyEnchantment extends Enchantment {
 	public boolean isCurse() {
 		return true;
 	}
+
 }
