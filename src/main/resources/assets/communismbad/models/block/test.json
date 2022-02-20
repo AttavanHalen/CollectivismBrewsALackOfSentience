@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "communismbad:blocks/test",
+    "up": "communismbad:blocks/test",
+    "north": "communismbad:blocks/test",
+    "east": "communismbad:blocks/test",
+    "south": "communismbad:blocks/test",
+    "west": "communismbad:blocks/test",
+    "particle": "communismbad:blocks/test"
+  }
+}

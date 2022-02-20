@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.communismbad.test": "Test"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "communismbad",
+    "modName": "Collectivism Brews A Lack Of Sentience",
+    "version": "1.0.0",
+    "author": "Laptop-O-Matic II, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.communismbad",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
