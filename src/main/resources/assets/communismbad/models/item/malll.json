@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "communismbad:items/music_disc_mall_je1_be1"
+  }
+}
